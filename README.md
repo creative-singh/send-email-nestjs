@@ -1,1 +1,1 @@
-# send-email-nestjs
+# Email Sending App in NestJs
